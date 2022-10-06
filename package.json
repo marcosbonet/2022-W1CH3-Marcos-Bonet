@@ -1,0 +1,19 @@
+{
+  "name": "2022-w1ch3-marcos-bonet",
+  "version": "1.0.0",
+  "description": "challenger 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosbonet/2022-W1CH3-Marcos-Bonet.git"
+  },
+  "author": "marcos bonet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosbonet/2022-W1CH3-Marcos-Bonet/issues"
+  },
+  "homepage": "https://github.com/marcosbonet/2022-W1CH3-Marcos-Bonet#readme"
+}
